@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I am Munukutla Surya Vamsi Kalyan
+### Aerospace Engineering Student @ IIT Kharagpur
+
+## About Me
+-I am a Formula Student member @TeamKART Motorsports
+- Currently interested in Aerodynamics, CFD, Scientific ML, Math modelling
 
 <!--
 **Thinkcrafty/Thinkcrafty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
